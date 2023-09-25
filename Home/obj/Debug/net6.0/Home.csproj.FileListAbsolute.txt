@@ -1,0 +1,15 @@
+/Users/anny/Desktop/SCV-GIT/Davay/Home/bin/Debug/net6.0/Home
+/Users/anny/Desktop/SCV-GIT/Davay/Home/bin/Debug/net6.0/Home.deps.json
+/Users/anny/Desktop/SCV-GIT/Davay/Home/bin/Debug/net6.0/Home.runtimeconfig.json
+/Users/anny/Desktop/SCV-GIT/Davay/Home/bin/Debug/net6.0/Home.dll
+/Users/anny/Desktop/SCV-GIT/Davay/Home/bin/Debug/net6.0/Home.pdb
+/Users/anny/Desktop/SCV-GIT/Davay/Home/obj/Debug/net6.0/Home.csproj.AssemblyReference.cache
+/Users/anny/Desktop/SCV-GIT/Davay/Home/obj/Debug/net6.0/Home.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anny/Desktop/SCV-GIT/Davay/Home/obj/Debug/net6.0/Home.AssemblyInfoInputs.cache
+/Users/anny/Desktop/SCV-GIT/Davay/Home/obj/Debug/net6.0/Home.AssemblyInfo.cs
+/Users/anny/Desktop/SCV-GIT/Davay/Home/obj/Debug/net6.0/Home.csproj.CoreCompileInputs.cache
+/Users/anny/Desktop/SCV-GIT/Davay/Home/obj/Debug/net6.0/Home.dll
+/Users/anny/Desktop/SCV-GIT/Davay/Home/obj/Debug/net6.0/refint/Home.dll
+/Users/anny/Desktop/SCV-GIT/Davay/Home/obj/Debug/net6.0/Home.pdb
+/Users/anny/Desktop/SCV-GIT/Davay/Home/obj/Debug/net6.0/Home.genruntimeconfig.cache
+/Users/anny/Desktop/SCV-GIT/Davay/Home/obj/Debug/net6.0/ref/Home.dll
